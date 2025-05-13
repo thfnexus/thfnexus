@@ -41,9 +41,11 @@
 #### 🧠 Tools & Libraries
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ffffff?style=for-the-badge&logo=python&logoColor=black)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-005571?style=for-the-badge&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-1E4C3B?style=for-the-badge&logo=python&logoColor=white)
 
+![Proxies](https://img.shields.io/badge/Proxies-Rotating--IPs-blue?style=for-the-badge&logo=torbrowser&logoColor=white)
 #### 💬 Chatbot Platforms
 ![Conversational AI Bots](https://img.shields.io/badge/Conversational_AI_Bots-00BFFF?style=for-the-badge)
 ![Customer Support Chatbots](https://img.shields.io/badge/Customer_Support_Bots-228B22?style=for-the-badge)
