@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🔧 I specialize in building **custom chatbots**, **AI-integrated tools**, and **interactive websites**
 - 🧠 Currently mastering backend automation using **Python** and powerful libraries
-- ⚡ Founder of [**THF Nexus**](https://techthf.xyz) – a freelance agency delivering smart digital solutions
+- ⚡ Founder of [**THF Nexus**](https://thfnexus.com) – a freelance agency delivering smart digital solutions
 - 🌐 Experienced with:
   - **Chatbot Development** (AI Bots development woth python, Website iframe)
   - **Web Development** (HTML, CSS, JS, Firebase, APIs)
@@ -61,10 +61,10 @@
 ---
 
 ### 📫 Let's Connect
-- 🌐 Website: [techthf.xyz](https://techthf.xyz)
+- 🌐 Website: [www.thfnexus.com](https://thfnexus.com)
 - 📩 Email: thfnexus@gmail.com
-- 🧑‍💼 LinkedIn: [linkedin.com/in/amhashir1617](https://linkedin.com/in/hashir-adnan-97417535a)
-- 📷 Instagram: [@am_hashir1617](https://instagram.com/am_hashir1617)
+- 🧑‍💼 LinkedIn: [linkedin.com/in/thfnexus](https://linkedin.com/in/thfnexus)
+- 📷 Instagram: [@thfnexus](https://instagram.com/thfnexus)
 
 ---
 
